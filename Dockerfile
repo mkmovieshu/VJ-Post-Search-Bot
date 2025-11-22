@@ -10,3 +10,4 @@ RUN pip install --no-cache-dir -r /requirements.txt
 
 # మిగతావన్ని నీ existing Dockerfile లో ఉన్నట్టు sameగా ఉంచు
 # (COPY . ., CMD / ENTRYPOINT etc. అలాగే వదిలేయి)
+
